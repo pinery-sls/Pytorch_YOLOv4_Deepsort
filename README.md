@@ -1,5 +1,5 @@
 # Pytorch_YOLOv4_Deepsort
- YOLOv4 and Deepsort
+ YOLOv4/YOLOv4-tiny and Deepsort
 
 ![demo](demo.gif)
 
