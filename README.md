@@ -22,7 +22,12 @@ Download [yolov4-tiny.weights](https://github.com/AlexeyAB/darknet/releases/down
 ## Tracking sources
 
 Tracking can be run on most video formats
-
+Yolov4
 ```bash
-python3 track.py video_path
+python3 track.py --config_detection ./yolov4/yolov4.yaml video_path
+```
+
+Yolov4-tiny
+```bash
+python3 track.py --config_detection ./yolov4/yolov4-tiny.yaml video_path
 ```
