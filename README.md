@@ -12,7 +12,7 @@ Download [yolov4.cfg](https://raw.githubusercontent.com/AlexeyAB/darknet/master/
 
 Download [yolov4.weights](https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT) and copy to yolov4/weights/
 
-**or**
+**OR**
 ### Yolov4-tiny
 
 Download [yolov4-tiny.cfg](https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4-tiny.cfg) and copy to yolov4/cfg/
